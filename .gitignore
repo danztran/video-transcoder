@@ -1,0 +1,11 @@
+dist
+.mkv
+.mp4
+.webm
+stat
+stat.short
+.env
+.DS_Store
+serve
+main
+video-transcode
